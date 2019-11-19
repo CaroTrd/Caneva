@@ -1,0 +1,26 @@
+/* ************************** */
+/* .cv{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+} */
+
+.container-cv-form {
+  display: flex;
+  flex-direction: row;
+}
+.container-update-cv {
+  width: 100%;
+  max-width: 600px;
+}
+.container-cv-show {
+  width: 100%;
+  max-width: 400px;
+}
+
+.react-grid-layout {
+  width: 100%;
+}
+.react-grid-item.cssTransforms{
+  border: 0.5px solid;
+}
